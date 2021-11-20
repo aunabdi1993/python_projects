@@ -1,0 +1,13 @@
+first_last_name = "Aun Abdi"
+fun_fact = "I played Violin in the School Orchestra"
+
+print("      A     ")
+print("     A A    ")
+print("    A   A   ")
+print("   A  A  A  ")
+print("  A       A ")
+print("      A     ")
+print("     A A    ")
+print("    A   A   ")
+print("   A  A  A  ")
+print("  A       A ")
